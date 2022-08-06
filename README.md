@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidanking
--  💻 I’m a Front-End Developer based in Ireland☘️
+-  💻 I’m a Front-End Engineer based in Ireland☘️
 
 <!---
 aidanking/aidanking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
